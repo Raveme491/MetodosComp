@@ -1,6 +1,7 @@
 ## Método utilizado para encontrar a raíz
 
 A função fornecida foi:
+
 $$
 \begin{equation}
     f(x) = x^{3} - 10
@@ -10,6 +11,7 @@ $$
 O método utilizado utiliza 3 equações consecutivas de forma iterativa para aproximar o próximo valor de X, fazendo com que a função convirja para o valor de $f(x) = 0$.
 
 As equações fornecidas foram as seguintes:
+
 $$
 \begin{equation}
     y_{n} = x_{n} - \frac{2f(x_{n})^2}{f(x_{n} +f(x_{n})) - f(x_{n} - f(x_{n}))}
@@ -33,6 +35,7 @@ Esse método se apresenta como uma melhoria substâncial em relação ao método
 
 
 Observando o comportamento da função, é perceptível que a raíz é tal que:
+
 $$
  \begin{equation} 
      x = \sqrt[3]{10} \cong 2,1544346900319
