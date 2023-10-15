@@ -59,3 +59,4 @@ Para avaliar o tempo de execução do código em Python foi utilizado a bibliote
 2. `Julia`: 100 $$\mu$$s
 3. `Python`: 104 $$\mu$$s
 $$\mu$$
+$\mu$
