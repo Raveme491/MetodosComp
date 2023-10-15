@@ -55,8 +55,8 @@ Com o objetivo de comparar o grau de dificuldade na escrita do código-fonte e n
 
 Para avaliar o tempo de execução do código em Python foi utilizado a biblioteca time. Para o código em C, foi utilizada a biblioteca time.h. Já para Júlia, foi utilizada uma função interna que executa uma parte do código e verifica o tempo. Após rodar os códigos em cada linguagem, encontrou-se os seguintes resultados:
 
-1. `C`: 2 $\mu$s
-2. `Julia`: 100 $$\mu$$s
-3. `Python`: 104 $$\mu$$s
+1. `C`: 2$\mu$s
+2. `Julia`: 100 $\mu$s
+3. `Python`: 104 $\mu$$s
 $$\mu$$
 $\mu$
